@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/rifqizuhairidaffa/karsajobs/general
+https://hub.docker.com/repository/docker/rifqizuhairidaffa/karsajobs-ui/general
